@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\engines\\quarterpivotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:engines\\quarterpivotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\exporters\\excelexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:exporters\\excelexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\engines\\pivotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:engines\\pivotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\models\\columninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:models\\columninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\models\\reportdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:models\\reportdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\models\\aggregationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:models\\aggregationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|d:\\03demo\\03c#\\chinesereportdesigner\\code\\models\\fieldinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECEA2F7-03C6-4184-9564-8DE686E8941E}|ChineseReportDesigner.csproj|solutionrelative:models\\fieldinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelExporter.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Exporters\\ExcelExporter.cs",
+              "RelativeDocumentMoniker": "Exporters\\ExcelExporter.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Exporters\\ExcelExporter.cs",
+              "RelativeToolTip": "Exporters\\ExcelExporter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:09:21.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuarterPivotEngine.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Engines\\QuarterPivotEngine.cs",
+              "RelativeDocumentMoniker": "Engines\\QuarterPivotEngine.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Engines\\QuarterPivotEngine.cs",
+              "RelativeToolTip": "Engines\\QuarterPivotEngine.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAEBAwAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:09:01.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PivotEngine.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Engines\\PivotEngine.cs",
+              "RelativeDocumentMoniker": "Engines\\PivotEngine.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Engines\\PivotEngine.cs",
+              "RelativeToolTip": "Engines\\PivotEngine.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:21.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-06T10:08:06.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAIAywDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:07:47.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "ViewModels\\RelayCommand.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:07:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColumnInfo.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\ColumnInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ColumnInfo.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\ColumnInfo.cs",
+              "RelativeToolTip": "Models\\ColumnInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:07:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportDesign.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\ReportDesign.cs",
+              "RelativeDocumentMoniker": "Models\\ReportDesign.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\ReportDesign.cs",
+              "RelativeToolTip": "Models\\ReportDesign.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:06:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AggregationRule.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\AggregationRule.cs",
+              "RelativeDocumentMoniker": "Models\\AggregationRule.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\AggregationRule.cs",
+              "RelativeToolTip": "Models\\AggregationRule.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:06:27.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FieldInfo.cs",
+              "DocumentMoniker": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\FieldInfo.cs",
+              "RelativeDocumentMoniker": "Models\\FieldInfo.cs",
+              "ToolTip": "D:\\03demo\\03c#\\ChineseReportDesigner\\code\\Models\\FieldInfo.cs",
+              "RelativeToolTip": "Models\\FieldInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:06:06.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

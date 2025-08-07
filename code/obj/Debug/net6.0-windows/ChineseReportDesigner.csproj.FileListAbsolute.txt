@@ -1,0 +1,2 @@
+D:\03demo\03c#\ChineseReportDesigner\code\obj\Debug\net6.0-windows\ChineseReportDesigner.csproj.AssemblyReference.cache
+D:\03demo\03c#\ChineseReportDesigner\code\obj\Debug\net6.0-windows\ChineseReportDesigner_MarkupCompile.cache
