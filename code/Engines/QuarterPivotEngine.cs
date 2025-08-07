@@ -2,6 +2,7 @@ using ChineseReportDesigner.Models;
 using System.Collections.Generic;
 using System;
 using System.Globalization;
+using System.Linq;
 namespace ChineseReportDesigner.Engines
 {
     public class QuarterPivotEngine
